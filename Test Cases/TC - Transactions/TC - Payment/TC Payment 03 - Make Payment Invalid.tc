@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Payment 03 - Make Payment Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32402abb-e9e2-4e8e-af99-07425f3c87cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b2b8be4-02d9-432d-8543-d90a59bced23</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'9999999'</defaultValue>
+      <description></description>
+      <id>9b2b8be4-02d9-432d-8543-d90a59bced23</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

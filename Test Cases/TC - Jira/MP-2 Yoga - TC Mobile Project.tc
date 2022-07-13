@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Yoga - TC Mobile Project
+Description: </description>
+   <name>MP-2 Yoga - TC Mobile Project</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10030&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i00027:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar2.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/project/10002&quot;,&quot;key&quot;:&quot;MP&quot;,&quot;id&quot;:10002,&quot;name&quot;:&quot;Mobile Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Yoga - TC Mobile Project&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;ayubyoga@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Ayub Yoga Pratama&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d62c4eb87a7de1e7c7c2db058&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;ayubyoga@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Ayub Yoga Pratama&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d62c4eb87a7de1e7c7c2db058&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/MP-2/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/10011&quot;,&quot;key&quot;:&quot;MP-2&quot;,&quot;id&quot;:10011}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>5d7e358c-d738-47d1-89a6-e33ab01da8d4</testCaseGuid>
+</TestCaseEntity>

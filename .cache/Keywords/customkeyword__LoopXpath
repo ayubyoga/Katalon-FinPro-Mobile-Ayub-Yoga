@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "224C14A2BD304ABDED56B0CD8890BFA5",
+  "keywordClasses": [
+    {
+      "name": "customkeyword.LoopXpath",
+      "keywordMethods": [
+        {
+          "name": "getTestObjectWithXpath",
+          "parameters": [
+            {
+              "name": "xpath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

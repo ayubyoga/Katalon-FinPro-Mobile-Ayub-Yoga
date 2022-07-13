@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Transfer 02 - Invalid Transfer Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd5f4b0c-c8fd-4926-b26a-7fb374820776</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d36760b-2350-48aa-b59b-62fb65f35672</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100000'</defaultValue>
+      <description></description>
+      <id>1d36760b-2350-48aa-b59b-62fb65f35672</id>
+      <masked>false</masked>
+      <name>transfer</name>
+   </variable>
+</TestCaseEntity>

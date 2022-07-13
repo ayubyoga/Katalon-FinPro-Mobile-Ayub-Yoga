@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Add 02 - Add Account Invalid - Account Exist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64b5f51b-84d3-43ab-8445-6d011fa8a77c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f6add68-d903-4fb1-afd5-2c3e198f514c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>794008d4-04f9-4bf2-b19b-4b940dd97536</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'BJB'</defaultValue>
+      <description></description>
+      <id>1f6add68-d903-4fb1-afd5-2c3e198f514c</id>
+      <masked>false</masked>
+      <name>accountname</name>
+   </variable>
+   <variable>
+      <defaultValue>'2000'</defaultValue>
+      <description></description>
+      <id>794008d4-04f9-4bf2-b19b-4b940dd97536</id>
+      <masked>false</masked>
+      <name>initialbalance</name>
+   </variable>
+</TestCaseEntity>
