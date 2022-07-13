@@ -40,3 +40,6 @@ Registry ID		:	KSAT006ONL016
     -	Transfer
     	-	Valid Transfer
     	-	Invalid Transfer Amount
+
+Note : 
+bugs in dropdown
