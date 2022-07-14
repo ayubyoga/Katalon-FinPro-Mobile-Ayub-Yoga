@@ -23,7 +23,7 @@ Mobile.callTestCase(findTestCase('TC - Login/TC Login 01 - Valid'), [('username'
 
 Mobile.tap(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
-Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Accounts'), 0)
+Mobile.tap(findTestObject('Dashboard/Menu Bar/btnLi_Accounts'), 0)
 
 Mobile.tap(findTestObject('Accounts/imgbtn_AddAccounts'), 0)
 

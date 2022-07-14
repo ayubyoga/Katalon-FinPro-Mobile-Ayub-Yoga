@@ -12,7 +12,7 @@
       <variableId>1d36760b-2350-48aa-b59b-62fb65f35672</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'100000'</defaultValue>
+      <defaultValue>'100000000'</defaultValue>
       <description></description>
       <id>1d36760b-2350-48aa-b59b-62fb65f35672</id>
       <masked>false</masked>

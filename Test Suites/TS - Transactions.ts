@@ -58,19 +58,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c5e07389-abe0-4a71-a585-fd33c2734949</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Transactions/TC - Transfer/TC Transfer 01 - Valid</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0d78ea9e-c63f-466b-b7b0-145b3ceaa62e</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>1298ec1f-2cff-4e2e-8060-9d87f2583bc1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

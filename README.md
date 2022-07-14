@@ -10,13 +10,14 @@ Registry ID		:	KSAT006ONL016
 ## :heavy_check_mark: Tools & Utility :
 	-	API Endpoint : 	Bank App Demo .apk
 	-	Tools		 : 	Katalon Studio
-						Android Studio, Google Pixel 5, Android 9.0
+						Android Studio, Google Pixel 4, Android 9.0
 
 ## :heavy_check_mark: Test Case(s) :
 
 	-	Register
         -   Register User 1
         -	Register User 2
+        -   Register Using Existing Username
     
     -   Login
         -   Login User 1 and 2
@@ -39,7 +40,9 @@ Registry ID		:	KSAT006ONL016
     	
     -	Transfer
     	-	Valid Transfer
-    	-	Invalid Transfer Amount
+    	-	Invalid Transfer Amount (Amount of Transfer Larger than Amount Available in Account)
 
-Note : 
+### :books: Note :
 bugs in dropdown
+
+Documents, Test Plan, Test Scenario, in Documents Folder.

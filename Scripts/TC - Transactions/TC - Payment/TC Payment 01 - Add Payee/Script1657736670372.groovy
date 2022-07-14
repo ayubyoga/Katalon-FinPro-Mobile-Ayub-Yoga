@@ -27,15 +27,15 @@ Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
-Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Payment'), 0)
+Mobile.tap(findTestObject('Dashboard/Menu Bar/btnLi_Make-a-Payment'), 0)
 
-Mobile.tap(findTestObject('Payment/imgbtn_AddPayee'), 0)
+Mobile.tap(findTestObject('Transactions/Payment/imgbtn_AddPayee'), 0)
 
-Mobile.tap(findTestObject('Payment/Add Payment/setText_PayeeName'), 0)
+Mobile.tap(findTestObject('Transactions/Payment/Add Payment/setText_PayeeName'), 0)
 
-Mobile.setText(findTestObject('Payment/Add Payment/setText_PayeeName'), 'Motorcycle Loan', 0)
+Mobile.setText(findTestObject('Transactions/Payment/Add Payment/setText_PayeeName'), 'Motorcycle Loan', 0)
 
-Mobile.tap(findTestObject('Payment/Add Payment/btn_Add'), 0)
+Mobile.tap(findTestObject('Transactions/Payment/Add Payment/btn_Add'), 0)
 
 driver.terminateApp(GlobalVariable.apiPackage)
 

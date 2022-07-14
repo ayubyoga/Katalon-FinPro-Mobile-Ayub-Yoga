@@ -25,19 +25,13 @@ driver = MobileDriverFactory.getDriver()
 
 Mobile.tap(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
-Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Transfer'), 0)
+Mobile.tap(findTestObject('Dashboard/Menu Bar/btnLi_Make-a-Transfer'), 0)
 
-Mobile.tap(findTestObject('Transfer/dropdown.1'), 0)
+Mobile.tap(findTestObject('Transactions/Transfer/setText_TransferAmount'), 0)
 
-Mobile.tap(findTestObject('Transfer/android.widget.CheckedTextView - ayubyoga (8999000.00)'), 0)
+Mobile.setText(findTestObject('Transactions/Transfer/setText_TransferAmount'), transfer, 0)
 
-Mobile.tap(findTestObject('Transfer/setText_TransferAmount'), 0)
+Mobile.tap(findTestObject('Transactions/Transfer/btn_ConfirmTransfer'), 0)
 
-Mobile.setText(findTestObject('Transfer/setText_TransferAmount'), transfer, 0)
-
-Mobile.tap(findTestObject('Transfer/dropdown.2'), 0)
-
-Mobile.tap(findTestObject('Transfer/android.widget.CheckedTextView - BJB (2000.00) (1)'), 0)
-
-Mobile.tap(findTestObject('Transfer/btn_ConfirmTransfer'), 0)
+WebUI.delay(2)
 

@@ -26,5 +26,5 @@ Mobile.verifyElementVisible(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
 Mobile.tap(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
-Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Logout'), 0)
+Mobile.tap(findTestObject('Dashboard/Menu Bar/btnLi_Logout'), 0)
 

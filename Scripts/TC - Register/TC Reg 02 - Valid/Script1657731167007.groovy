@@ -54,5 +54,3 @@ Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Create Profile/btn_CreateProfile'), 0)
 
-driver.terminateApp(GlobalVariable.apiPackage)
-

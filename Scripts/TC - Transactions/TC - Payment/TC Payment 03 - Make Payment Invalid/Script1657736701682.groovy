@@ -27,13 +27,13 @@ Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
-Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Payment'), 0)
+Mobile.tap(findTestObject('Dashboard/Menu Bar/btnLi_Make-a-Payment'), 0)
 
-Mobile.tap(findTestObject('Payment/setText_Amount'), 0)
+Mobile.tap(findTestObject('Transactions/Payment/setText_Amount'), 0)
 
-Mobile.setText(findTestObject('Payment/setText_Amount'), amount, 0)
+Mobile.setText(findTestObject('Transactions/Payment/setText_Amount'), amount, 0)
 
-Mobile.tap(findTestObject('Payment/btn_MakePayment'), 0)
+Mobile.tap(findTestObject('Transactions/Payment/btn_MakePayment'), 0)
 
 WebUI.comment('You dont have sufficent amount')
 

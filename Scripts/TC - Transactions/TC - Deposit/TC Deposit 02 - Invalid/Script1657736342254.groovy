@@ -25,13 +25,13 @@ driver = MobileDriverFactory.getDriver()
 
 Mobile.tap(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
-Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Deposit'), 0)
+Mobile.tap(findTestObject('Dashboard/Menu Bar/btnLi_Make-a-Deposit'), 0)
 
-Mobile.tap(findTestObject('Deposit/setText_EnterDeposit'), 0)
+Mobile.tap(findTestObject('Transactions/Deposit/setText_EnterDeposit'), 0)
 
-Mobile.setText(findTestObject('Deposit/setText_EnterDeposit'), deposit, 0)
+Mobile.setText(findTestObject('Transactions/Deposit/setText_EnterDeposit'), deposit, 0)
 
-Mobile.tap(findTestObject('Deposit/btn_Add'), 0)
+Mobile.tap(findTestObject('Transactions/Deposit/btn_Add'), 0)
 
 WebUI.comment('Should be invalid but success (?)')
 
